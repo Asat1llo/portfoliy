@@ -1,3 +1,6 @@
+import styled, { createGlobalStyle } from "styled-components";
+
+const Globa = createGlobalStyle`
 *,
 *::before,
 *::after {
@@ -27,10 +30,6 @@ button {
   border: none;
   cursor: pointer;
 }
+`
 
-.container {
-  max-width: 100%;
-  width: 1440px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
+export default Globa

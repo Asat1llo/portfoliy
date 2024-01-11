@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'AnyConv.com__Poppins-Black';
+    src: url('AnyConv.com__Poppins-Black.woff'),url('AnyConv.com__Poppins-Black.woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AnyConv.com__Poppins-BlackItalic';
+    src: url('AnyConv.com__Poppins-BlackItalic.woff'),url('AnyConv.com__Poppins-BlackItalic.woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AnyConv.com__Poppins-Bold';
+    src: url('AnyConv.com__Poppins-Bold.woff'),url('AnyConv.com__Poppins-Bold.woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AnyConv.com__Poppins-BoldItalic';
+    src: url('AnyConv.com__Poppins-BoldItalic.woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AnyConv.com__Poppins-ExtraBold';
+    src: url('AnyConv.com__Poppins-ExtraBold.woff'),url('AnyConv.com__Poppins-ExtraBold.woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AnyConv.com__Poppins-ExtraBoldItalic';
+    src: url('AnyConv.com__Poppins-ExtraBoldItalic.woff'),url('AnyConv.com__Poppins-ExtraBoldItalic.woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AnyConv.com__Poppins-ExtraLightItalic';
+    src: url('AnyConv.com__Poppins-ExtraLightItalic.woff');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AnyConv.com__Poppins-Italic';
+    src: url('AnyConv.com__Poppins-Italic.woff'),url('AnyConv.com__Poppins-Italic.woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AnyConv.com__Poppins-Light';
+    src: url('AnyConv.com__Poppins-Light.woff'),url('AnyConv.com__Poppins-Light.woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AnyConv.com__Poppins-LightItalic';
+    src: url('AnyConv.com__Poppins-LightItalic.woff'),url('AnyConv.com__Poppins-LightItalic.woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AnyConv.com__Poppins-Medium';
+    src: url('AnyConv.com__Poppins-Medium.woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AnyConv.com__Poppins-MediumItalic';
+    src: url('AnyConv.com__Poppins-MediumItalic.woff');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AnyConv.com__Poppins-Regular';
+    src: url('AnyConv.com__Poppins-Regular.woff'),url('AnyConv.com__Poppins-Regular.woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AnyConv.com__Poppins-SemiBold';
+    src: url('AnyConv.com__Poppins-SemiBold.woff'),url('AnyConv.com__Poppins-SemiBold.woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AnyConv.com__Poppins-ThinItalic';
+    src: url('AnyConv.com__Poppins-ThinItalic.woff');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}

@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'AnyConv.com__AnyConv.com__Inter-Black';
+    src: url('AnyConv.com__Inter-Black.woff'), url('AnyConv.com__AnyConv.com__Inter-Black.woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AnyConv.com__AnyConv.com__Inter-Bold';
+    src: url('AnyConv.com__AnyConv.com__Inter-Bold.woff'), url('AnyConv.com__Inter-Bold.woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AnyConv.com__AnyConv.com__Inter-ExtraBold';
+    src: url('AnyConv.com__Inter-ExtraBold.woff'), url('AnyConv.com__AnyConv.com__Inter-ExtraBold.woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AnyConv.com__AnyConv.com__Inter-ExtraLight';
+    src: url('AnyConv.com__Inter-ExtraLight.woff'), url('AnyConv.com__AnyConv.com__Inter-ExtraLight.woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AnyConv.com__AnyConv.com__Inter-Regular';
+    src: url('AnyConv.com__Inter-Regular.woff'), url('AnyConv.com__AnyConv.com__Inter-Regular.woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AnyConv.com__AnyConv.com__SemiBold';
+    src: url('AnyConv.com__Inter-SemiBold.woff'), url('AnyConv.com__AnyConv.com__Inter-SemiBold.woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AnyConv.com__AnyConv.com__Inter-Thin';
+    src: url('AnyConv.com__Inter-Thin.woff'), url('AnyConv.com__AnyConv.com__Inter-Thin.woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
